@@ -157,6 +157,7 @@
 		75BAB7E22C61F39800114687 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		75BAB7E42C61F44600114687 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		75BAB7E62C61F86800114687 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
+		75C69FC12C63FEE5008F4408 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		75D0C5B42C610138007C21BA /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		75D0C5B62C610196007C21BA /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		75E9BAC82C6316710093051B /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
@@ -193,6 +194,7 @@
 		751C5F9D2C60523F0020A3FD = {
 			isa = PBXGroup;
 			children = (
+				75C69FC12C63FEE5008F4408 /* README.md */,
 				751C5FA82C60523F0020A3FD /* Landmarks */,
 				75BA66F82C634DE700E4BAFC /* WatchLandmarks Watch App */,
 				75B51C312C63A40B00AFA705 /* MacLandmarks */,
